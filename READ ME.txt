@@ -1,0 +1,4 @@
+npm install ...
+sanity init
+
+npm install @sanity/client
