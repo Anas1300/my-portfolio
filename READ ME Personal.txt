@@ -1,0 +1,16 @@
+npm install ...
+sanity init
+
+npm install @sanity/client
+
+
+npm install react-router-dom
+
+
+router, tailwind css, sanity, github
+
+npm install react-social-icons
+
+
+npm install @sanity/image-url
+npm install @sanity/block-content-to-react
